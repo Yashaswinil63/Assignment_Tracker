@@ -1,0 +1,14 @@
+In the Assignment_Tracker application,
+
+Functionalities:
+
+The assignments have categories they’re categorized by the course name
+The application filters the assignment based on the categories
+Add an assignment (manage assignments)
+Add a Course (manage course or categories)
+
+
+Design Pattern Implemented is 
+MVC patterns and the PHP logic behind the design of the application
+
+First Step: The MVC model is created using Model, View, Controller folder.
